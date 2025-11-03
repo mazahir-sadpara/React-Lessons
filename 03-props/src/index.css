@@ -1,0 +1,13 @@
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card {
+    background-color: azure;
+    width: 300px;
+    margin: 40px;
+    text-align: center;
+}
+.card {
+    
+}
